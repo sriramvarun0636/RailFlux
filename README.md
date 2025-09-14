@@ -5,7 +5,7 @@
 ---
 
 ## 📌 Problem Statement  
-- **ID:** [Insert Problem Statement ID from SIH portal]  
+- **ID:** SIH24022 
 - **Title:** Maximizing Section Throughput Using AI-Powered Precise Train Traffic Control  
 - **Theme:** Transport & Logistics  
 - **Category:** Software  
@@ -99,13 +99,8 @@ T --> T5["DevOps: Docker, Docker Compose"]:::tech
 
 - **Technical Feasibility:** Proven tech (DRL, Digital Twins, FastAPI) + scalable cloud (AWS/GCP).  
 - **Economic Feasibility:** Even **5% delay reduction** saves **millions** in fuel, crew hours, and capacity.  
-- **Operational Feasibility:** Designed as a *decision-support tool*, ensuring low-risk phased adoption.  
-
-⚠️ **Challenges & Mitigation**  
-- **Data Availability** → Start with public schedule data + simulated events.  
-- **Model Complexity** → Use transfer learning & cloud GPUs.  
-- **User Adoption** → Build trust with Explainable AI (transparent reasoning).  
-
+- **Operational Feasibility:** Designed as a *decision-support tool*, ensuring low-risk phased adoption.
+- 
 ---
 
 ## 🌍 Impact & Benefits  
